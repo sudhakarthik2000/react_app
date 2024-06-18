@@ -57,6 +57,8 @@ function countMatch(iplTeams){
         return (
             <div>
                 <p className="count">Total Count of Matches {countMatch(iplTeams)}</p>
+                <p className="count">Total Count of Matches {countMatch(iplTeams)}</p>
+                <p className="count">Total Count of Matches {countMatch(iplTeams)}</p>
           
           <h3> {Eachteam.teamname}</h3>
             <img src={Eachteam.teamlogo} width={100} height={100}/>
